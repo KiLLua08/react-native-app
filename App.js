@@ -2,10 +2,9 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
-  console.log('app running')
   return (
     <View style={styles.container}>
-      <Text>Yakoubi Rayen</Text>
+      <Text>Yakoubi _ Rayen</Text>
       <StatusBar style="auto" />
     </View>
   );
